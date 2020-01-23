@@ -1,0 +1,6 @@
+INPUT a b c d
+AND and1 a b
+OR or1 and1 c
+NOT n1 d
+FLIPFLOP f1 n1
+AND a2 or1 f1
